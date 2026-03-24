@@ -1,0 +1,13 @@
+{
+    "ship_class": "fighter",
+    "description": "Fast, lightly armoured interceptor. Best used in swarms.",
+    "radius": 10,
+    "shape": "triangle",
+    "size": 10,
+    "hp": 60,
+    "shields": 0,
+    "max_speed": 180,
+    "acceleration": 120,
+    "turn_speed": 150,
+    "modules": ["laser_cannon"]
+}

@@ -1,0 +1,13 @@
+{
+    "ship_class": "carrier",
+    "description": "Heavily armoured capital ship. Slow but very tough.",
+    "radius": 35,
+    "shape": "diamond",
+    "size": 35,
+    "hp": 600,
+    "shields": 200,
+    "max_speed": 55,
+    "acceleration": 30,
+    "turn_speed": 30,
+    "modules": ["missile_launcher", "deflector_shield"]
+}

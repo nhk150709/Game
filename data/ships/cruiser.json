@@ -1,0 +1,13 @@
+{
+    "ship_class": "cruiser",
+    "description": "Medium warship with shields and mixed armament.",
+    "radius": 22,
+    "shape": "rect",
+    "size": 22,
+    "hp": 250,
+    "shields": 80,
+    "max_speed": 90,
+    "acceleration": 50,
+    "turn_speed": 60,
+    "modules": ["laser_cannon", "missile_launcher", "deflector_shield"]
+}
