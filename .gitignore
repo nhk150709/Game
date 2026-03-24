@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+*.egg-info/
+dist/
+build/
+assets/sprites/*.png
+assets/sounds/*.wav
+assets/sounds/*.ogg
